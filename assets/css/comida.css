@@ -1,0 +1,68 @@
+*{
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+body{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.header-section{
+    background-image: url('../img/bannerdefinitivo.avif');
+    height: 350px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.Titulo{
+    color: white;
+    text-align: center;
+    padding-top: 1%;
+    font-size: 135px;
+}
+
+.Subtitulo{
+
+    color:black;
+    text-align:center;
+    padding-top: 15%;
+    font-size: 2.5rem;
+}
+
+.Seleccion-de-Productos{
+
+    padding: 2.5rem 0;
+}
+
+.Tabla-de-Productos{
+    margin: auto;
+}
+
+.Productos{
+    width: 25rem;
+    padding: 1rem 3rem;
+    margin: 10px;
+}
+
+.Productos img{
+    width: 110%;
+    padding: 2rem 3rem;
+}
+
+.Nombre-hamburguesa{
+    font-size: 2.5rem;
+    padding: 1rem;
+    line-height: 25px;
+    
+}
+
+.Precio-hamburguesa{
+    padding: 1rem ;
+font-size: 1rem;
+line-height: 25px;
+}
+.descripcion-hamburguesa{
+    padding: 1rem ;
+    font-size: 1rem;
+    line-height: 25px;
+    
+}

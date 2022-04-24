@@ -1,0 +1,38 @@
+body{
+    font-family:'roboto', sans-serif;
+    font-weight: 300px;
+    }
+    
+    .navbar{
+      background-color: #28a745;
+    }
+    .formulario{
+        background-color:#28a745 ;
+    }
+    
+    .colores{
+        color: white
+    }
+    
+    .parrafo-verde{
+        color: #28a745;
+        font-family:'Roboto'; 
+        
+        
+    }
+    
+    .container-fluid img{
+        width: 6%;
+        
+    }
+    
+    .navbar-nav{
+    
+        padding-left: 93rem
+    }
+    
+    
+    
+    
+    
+    
